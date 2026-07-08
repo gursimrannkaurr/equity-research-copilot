@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+yfinance
+pandas
+numpy
+google-generativeai
+python-multipart
+pytest
