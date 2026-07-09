@@ -118,3 +118,11 @@ deployed._
 This project is for educational and portfolio purposes only. It is **not**
 investment advice, and nothing it outputs (rule-based or AI-generated)
 should be used to make real financial decisions.
+
+---
+
+<div align="center">
+
+Part of [Gursimran Kaur's](https://github.com/gursimrannkaurr) portfolio · [← Back to profile](https://github.com/gursimrannkaurr/gursimrannkaurr)
+
+</div>
